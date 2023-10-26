@@ -1,0 +1,6 @@
+Nombres: Cesar
+Apellidos: Sakarias
+Teléfono: 91312312
+Estatura: 1.90
+Edad: 20
+Género: Hombre

@@ -1,0 +1,17 @@
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\Formulario 5 - P.A - IJCA.exe.config
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\Formulario 5 - P.A - IJCA.exe
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\Formulario 5 - P.A - IJCA.pdb
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario 5 - P.A - IJCA.csproj.AssemblyReference.cache
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario_5___P.A___IJCA.Form1.resources
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario_5___P.A___IJCA.Properties.Resources.resources
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario 5 - P.A - IJCA.csproj.GenerateResource.cache
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario 5 - P.A - IJCA.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario 5 - P.A - IJCA.exe
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario 5 - P.A - IJCA.pdb
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\MySql.Data.dll
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\System.Memory.dll
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\System.Buffers.dll
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\bin\Debug\MySql.Data.xml
+C:\Users\ignac\Documents\Documentos de Programación\Visual\Practica 1\Formulario 5 - P.A - IJCA\Formulario 5 - P.A - IJCA\obj\Debug\Formulario 5 - P.A - IJCA.csproj.CopyComplete
